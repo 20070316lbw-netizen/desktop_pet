@@ -1,0 +1,12 @@
+{
+  "name": "desktop-pet",
+  "version": "1.0.0",
+  "description": "Pixel art desktop pet",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron --no-sandbox ."
+  },
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
